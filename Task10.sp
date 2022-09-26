@@ -3,7 +3,7 @@
 <Rule created="1657312409159" id="c0a8380181de18d08181df8476470116" language="beanshell" modified="1663616174237" name="Presentation Task 10">
   <Source>
   
-	//T10: Write a rule to return entitlements from particular  Applications.
+  //T10: Write a rule to return entitlements from particular  Applications.
   
   //RETURN ENTITLEMENT FROM DOOR MANAGEMENT SYSTEM 
   
