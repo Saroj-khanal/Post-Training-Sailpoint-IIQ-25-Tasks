@@ -7,7 +7,7 @@
 
   import sailpoint.object.Identity;
 
-  //test start 
+  //test start  
   Identity identity = context.getObject(Identity.class, "FBJ3"); 
   //return identity.getAssignedRoles(); //for test
   List roleList = new ArrayList();
