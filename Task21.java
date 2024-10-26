@@ -10,6 +10,8 @@
   List intList = new ArrayList();
   List testList = new ArrayList();
 
+//Can add random value to intList array using loop as well - later added comment 
+
   intList.add(0);
   intList.add(1);
   intList.add(2);
